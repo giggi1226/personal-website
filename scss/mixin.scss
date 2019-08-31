@@ -1,0 +1,13 @@
+@mixin white_button {
+    line-height: 100%;
+    padding: 7px;
+    background: #e5f7f9;
+    color: $secondary-color;
+    font-weight: bold;
+    margin-left: 3px;
+    margin-right: 3px;
+    display: inline-block;
+    width: 18vw;
+    border-radius: 3%;
+    text-align: center;
+  }
