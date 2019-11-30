@@ -101,6 +101,13 @@ section#currentWork {
       font-size: 220%;
       padding-top: 3vh;
     }
+    figure {
+      flex-basis: 40%;
+      text-align: center;
+      img {
+        max-width: 20%;
+      }
+    }
   }
 }
 
