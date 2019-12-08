@@ -30,12 +30,11 @@ html, body {
 
 main {
   background: $main-color;
-  min-height: 52vh;
   width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding-top: 1.5%;
+  padding: 1.5%;
 
   figure {
     flex-basis: 40%;
